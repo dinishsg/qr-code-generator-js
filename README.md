@@ -1,7 +1,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Frontend Project](https://img.shields.io/badge/Type-Frontend-success)
+![API Project](https://img.shields.io/badge/Type-API%20Based-success)
+![Beginner Project](https://img.shields.io/badge/Level-Beginner-brightgreen)
+
 
 # QR Code Generator
 
